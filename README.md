@@ -5,8 +5,9 @@ when using a custom implementation of `ICollectionView` and `ICollectionView.Col
 
 ## Purpose
 
-This project exists only to reproduce the issue in a simple, focused way.
-The custom implementation code used in this repro is under the [CustomImplementation]() folder.
+This project exists only to reproduce the issue https://github.com/microsoft/microsoft-ui-xaml/issues/11085.
+
+The custom implementation code for `ICollectionView` used in this repro is under the [CustomImplementation](https://github.com/w-ahmad/GroupingTest/tree/master/GroupingTest/CustomImplementation) folder.
 
 ## Run
 
