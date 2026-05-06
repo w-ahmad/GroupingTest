@@ -14,8 +14,6 @@
 
     <Grid Margin="20">
         <Grid.Resources>
-            <CollectionViewSource x:Name="ContactsCVS"
-                                  IsSourceGrouped="True" />
             <DataTemplate x:Key="ContactTemplate"
                           x:DataType="local:Contact">
                 <TextBlock Text="{x:Bind Name}" />
