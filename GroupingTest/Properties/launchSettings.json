@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GroupingTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GroupingTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
